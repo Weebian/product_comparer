@@ -7,4 +7,6 @@ Currently set to CAD, can be modified in file
 
 The API is unable to retrieve sales, so it is best to consider based on other specifications.
 
-The code can be further improved by having Chat GPT's model access webscraped data to obtain sales if needed
+The code can be further improved by:
+- having Chat GPT's model access webscraped data to obtain sales if needed
+- add pandas to better tabulate data
